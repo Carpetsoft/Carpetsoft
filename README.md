@@ -2,7 +2,7 @@
 
 <h3>About me<h3>
 <ul>
-  <li>I code in Python and Lua</li>
+  <li>I code in Python and C++</li>
 </ul>
 
 <h3>Discord:</h3>
