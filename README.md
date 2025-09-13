@@ -7,5 +7,5 @@
 
 <h3>Discord:</h3>
 <ul>
-  <li>💬 Reach me on Discord: <a href="https://discordapp.com/users/c3pe">@c3pe</a></li>
+  <li>💬 Reach me on Discord: <a href="https://discordapp.com/users/c3rpet">@c3rpet</a></li>
 </ul>
